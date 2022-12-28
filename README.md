@@ -25,5 +25,3 @@ The CMS used is Prestashop !
 It's a web site for selling laptops online in Algeria.
 
 Feel free to checkout the PDF report file for more details
-
-Thank you for your attention !  :)
